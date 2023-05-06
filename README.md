@@ -8,7 +8,7 @@ and aesthetically pleasing format. It is also important to have a
 signature design for visuals so that fellow analysts can recognize your
 work. See the section below for my signature visual design.
 
-## Visual Code and Example Output
+## Code and Example Output
 
 Using the `iris` data, see below the code that creates my signature
 design and an example output.
