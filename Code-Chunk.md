@@ -31,5 +31,4 @@ iris %>%
     legend.text = element_text(size = 11),
     legend.title = element_text(face = "bold", size=13))
 ```
-## Example Output
 ![](Code-Chunk_files/figure-gfm/viz-1.png)<!-- -->
